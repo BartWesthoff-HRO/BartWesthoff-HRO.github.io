@@ -52065,7 +52065,7 @@ $1:function(a){return!0},
 $S:13}
 F.zL.prototype={
 O:function(a,b){var s=null,r=P.aN(["/",new F.PS(),"/AboutScreen",new F.PT()],t.bi,t.gd),q=C.vo.iA(C.j),p=A.fM(s,s,C.a2.h(0,300),s,s,s,s,s,s,s,s,12,s,C.aK,s,s,!0,2,s,s,s,s,s)
-return new S.qG(r,"/","Bart Westhoff",X.a2q(C.uf,C.rJ,C.u3,C.az,"Montserrat",q,C.l,C.u1,R.Vu(A.fM(s,s,C.a2.h(0,300),s,s,s,s,s,s,s,s,14,s,C.lo,s,s,!0,1,s,s,s,s,s),A.fM(s,s,C.a2.h(0,300),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,1,s,s,s,s,s),s,s,s,C.Ax,s,p,s,s,s,s,s)),!1,s)}}
+return new S.qG(r,"/","BETA",X.a2q(C.uf,C.rJ,C.u3,C.az,"Montserrat",q,C.l,C.u1,R.Vu(A.fM(s,s,C.a2.h(0,300),s,s,s,s,s,s,s,s,14,s,C.lo,s,s,!0,1,s,s,s,s,s),A.fM(s,s,C.a2.h(0,300),s,s,s,s,s,s,s,s,s,s,s,s,s,!0,1,s,s,s,s,s),s,s,s,C.Ax,s,p,s,s,s,s,s)),!1,s)}}
 F.PS.prototype={
 $1:function(a){return new V.ki(null)},
 $S:307}
@@ -52081,7 +52081,7 @@ V.ki.prototype={
 aY:function(){return new V.F2(C.n)}}
 V.F2.prototype={
 O:function(a,b){var s=null,r=t.fQ
-return M.a6Y(new Q.mT(new M.ua(s),new P.V(0,50),s),B.a66(H.c([T.a5f(H.c([new V.ww(s),T.n6(H.c([new R.ti(s),M.k_(s,T.a5d(K.a1m(new P.bx(14,14)),U.a5Q(C.ok,new L.lN("profielfoto.png"))),s,s,L.Ll(b),400,s,s,400)],r),C.ch,C.hP)],r),C.eR)],r),new V.b9(40,40,40,40)))}}
+return M.a6Y(new Q.mT(new M.ua(s),new P.V(0,50),s),B.a66(H.c([T.a5f(H.c([new V.ww(s),T.n6(H.c([new R.ti(s),M.k_(s,T.a5d(K.a1m(new P.bx(14,14)),U.a5Q(C.ok,new L.lN("assets/profielfoto.png"))),s,s,L.Ll(b),400,s,s,400)],r),C.ch,C.hP)],r),C.eR)],r),new V.b9(40,40,40,40)))}}
 V.ww.prototype={
 O:function(a,b){var s=null,r=L.Ll(b),q=A.fM(s,s,C.j,s,s,s,s,s,s,s,s,22,s,s,s,s,!0,s,s,s,s,s,s)
 return T.a5f(H.c([M.k_(C.rE,M.k_(s,T.a2h(s,s,C.is,!0,s,new Q.eg(s,H.c([C.yl,C.ym,C.yk],t.ru),q),C.kJ,s,s,1,C.cd),s,s,s,s,s,new V.b9(35,35,35,35),s),s,s,r,400,s,s,1000)],t.fQ),C.eR)}}
